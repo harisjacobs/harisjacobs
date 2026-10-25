@@ -7,8 +7,8 @@ I'm a big fan of computer science and programming in general, especially languag
 ### Useless information below:<br>
  <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=harisjacobs&langs_count=4&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=harisjacobs&langs_count=6&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harisjacobs&langs_count=4&theme=light_github" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harisjacobs&langs_count=6&theme=light_github" alt="Top Langs" />
   </picture>
